@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Dependency files (if auto-generated)
+poetry.lock
+Pipfile.lock
+
+# Data / generated outputs
+data/*.csv
+data/*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git temporary files
+*.swp
+*.swo
+
+# Ignore tools you aren't tracking
+utils/__pycache__/
+tests/__pycache__/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# dotenv or secrets (if you add them later)
+.env
+.env.*
