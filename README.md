@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue?logo=python)
 ![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)
+[![Lint and Test](https://github.com/sohailsajid79/network-cli-toolkit/actions/workflows/lint-test.yml/badge.svg)](https://github.com/sohailsajid79/network-cli-toolkit/actions/workflows/lint-test.yml)
 
 A Python CLI for working with IPs, subnetting, CIDR calculations, and cloud networking (AWS, Azure, etc.).
 
